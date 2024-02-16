@@ -1,5 +1,5 @@
 banner:
-  title: I’m Nicholas Terrazas
+  title: Nicholas Terrazas
 
 social:
   twitter: ""
@@ -16,7 +16,7 @@ social:
 
 about:
   enable: true
-  content: 4th Year GMU Computer Science Student
+  content: 4th Year Computer Science Student at GMU
   button:
     btnText: Find out more
     URL: "/about"
@@ -48,7 +48,7 @@ skill:
     - title: CSS
       logo: https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png
       description: 2 years of experience. Used for styling web frontend in school and personal projects
-    - title: Spring Boot
+    - title: Spring
       logo: https://miro.medium.com/v2/resize:fit:500/1*AbiX4LwtSNozoyfypcKvEg.png
       description: 2 years of experience. Used for creating REST APIs and implementing MVC architecture
     - title: FastAPI
@@ -78,7 +78,7 @@ portfolio:
   enable: true
   item:
     - title: Calendar Share
-      image: https://res.cloudinary.com/samrobbins/image/upload/v1597159067/Easy_DMARC_hkcgif.webp
+      image: https://i0.wp.com/marriagefun101.com/wp-content/uploads/2022/02/McFadden-Family-Calendar.png?resize=810%2C506&ssl=1
       description: A website designed to make it easy for people to share and visualize calendar information
       link: "/portfolio/calendar-share"
       tools:
@@ -86,7 +86,7 @@ portfolio:
         - express
         - mongodb
     - title: Mongo Intel
-      image: https://res.cloudinary.com/samrobbins/image/upload/v1597159067/Easy_DMARC_hkcgif.webp
+      image: https://spyro-soft.com/wp-content/uploads/2022/11/what-is-geospatial-mapping-and-how-does-it-work.jpeg
       description: An application that allows for users to make queries and predictions on position data using natural language
       link: "/portfolio/mongo-intel"
       tools:
@@ -94,10 +94,11 @@ portfolio:
         - fastapi
         - mongodb
     - title: Project Success
-      image: https://res.cloudinary.com/samrobbins/image/upload/v1597159067/Easy_DMARC_hkcgif.webp
+      image: https://cdn.sanity.io/images/tlr8oxjg/production/8065e9b35afcf58ba7b1b96e1d5be14420d47dec-1456x816.png?w=3840&q=100&fit=clip&auto=format
       description: An application intended for students and teachers to organize their semester in a way that benefits both groups
       link: "/portfolio/project-success"
       tools:
+        - thymeleaf
         - spring
         - mysql
 

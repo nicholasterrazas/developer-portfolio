@@ -4,7 +4,7 @@ coders = ["nicholasterrazas"]
 date = 2023-02-15T23:00:00Z
 description = "A full-stack web application for sharing calendar information"
 github = ["https://github.com/nicholasterrazas/Calendar-Share"]
-image = "https://res.cloudinary.com/samrobbins/image/upload/q_auto/v1593352345/twoo-home_k7molq.png"
+image = "https://i0.wp.com/marriagefun101.com/wp-content/uploads/2022/02/McFadden-Family-Calendar.png?resize=810%2C506&ssl=1"
 title = "Calendar Share"
 [[tech]]
 logo = "https://res.cloudinary.com/samrobbins/image/upload/q_auto/v1591793272/logos/logos_javascript_adj1dx.svg"

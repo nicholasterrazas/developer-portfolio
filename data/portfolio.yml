@@ -1,3 +1,9 @@
 filter:
   - label: Web Dev
     value: web-dev
+  
+  - label: School
+    value: school
+
+  - label: Personal
+    value: personal
