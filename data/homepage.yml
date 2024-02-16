@@ -93,6 +93,13 @@ portfolio:
         - react
         - fastapi
         - mongodb
+    - title: Project Success
+      image: https://res.cloudinary.com/samrobbins/image/upload/v1597159067/Easy_DMARC_hkcgif.webp
+      description: An application intended for students and teachers to organize their semester in a way that benefits both groups
+      link: "/portfolio/project-success"
+      tools:
+        - spring
+        - mysql
 
 experience:
   enable: false
