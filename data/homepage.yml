@@ -1,0 +1,147 @@
+banner:
+  title: I’m Nicholas Terrazas
+
+social:
+  twitter: ""
+  linkedin: nicholas-terrazas
+  bitbucket: ""
+  github: nicholasterrazas
+  gitlab: ""
+  facebook: ""
+  instagram: ""
+  gmail: nicholasterrazas01
+  hotmail: ""
+  telegram: ""
+  whatsapp: ""
+
+about:
+  enable: true
+  content: 4th Year GMU Computer Science Student
+  button:
+    btnText: Find out more
+    URL: "/about"
+
+skill:
+  enable: true
+  item:
+    - title: Python
+      logo: https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png
+      description: 5 years of experience. Used for various projects and purposes
+    - title: Java
+      logo: https://cdn-icons-png.flaticon.com/512/226/226777.png
+      description: 6 years of experience. Used for school and personal projects
+    - title: JavaScript
+      logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
+      description: 2 years of experience. Used for building web applications
+    - title: C
+      logo: https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png
+      description: 2 years of experience. Used for school projects
+    - title: Haskell
+      logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/2560px-Haskell-Logo.svg.png
+      description: 1 year of experience. Used for school and personal projects
+    - title: React
+      logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png
+      description: 2 years of experience. Used for building web applications
+    - title: HTML
+      logo: https://cdn.iconscout.com/icon/free/png-256/free-html5-40-1175193.png
+      description: 3 years of experience. Used for creating web frontend in school and personal projects 
+    - title: CSS
+      logo: https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png
+      description: 2 years of experience. Used for styling web frontend in school and personal projects
+    - title: Spring Boot
+      logo: https://miro.medium.com/v2/resize:fit:500/1*AbiX4LwtSNozoyfypcKvEg.png
+      description: 2 years of experience. Used for creating REST APIs and implementing MVC architecture
+    - title: FastAPI
+      logo: https://cdn.worldvectorlogo.com/logos/fastapi.svg
+      description: 2 years of experience. Used for creating web backends in school and personal projects
+    - title: Express.js
+      logo: https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png
+      description: 2 years of experience. Used for creating web backends in personal projects
+    - title: Node.js
+      logo: https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png
+      description: 2 years of experience. Used for creating web backends in personal projects
+    - title: SQL
+      logo: https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png
+      description: 1 year of experience. Used for school projects
+    - title: MongoDB
+      logo: https://www.svgrepo.com/show/331488/mongodb.svg
+      description: 1 year of experience. Used for school and personal projects
+    - title: Git
+      logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png
+      description: 3 years of experience. Used for school and personal projects
+    - title: Docker
+      logo: https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png
+      description: 1 year of experience. Used for personal projects
+
+
+portfolio:
+  enable: true
+  item:
+    - title: Calendar Share
+      image: https://res.cloudinary.com/samrobbins/image/upload/v1597159067/Easy_DMARC_hkcgif.webp
+      description: A website designed to make it easy for people to share and visualize calendar information
+      link: "/portfolio/calendar-share"
+      tools:
+        - react
+        - express
+        - mongodb
+    - title: Mongo Intel
+      image: https://res.cloudinary.com/samrobbins/image/upload/v1597159067/Easy_DMARC_hkcgif.webp
+      description: An application that allows for users to make queries and predictions on position data using natural language
+      link: "/portfolio/mongo-intel"
+      tools:
+        - react
+        - fastapi
+        - mongodb
+
+experience:
+  enable: false
+  item:
+    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
+      title: init.g
+      company: Google
+      duration: November 2019
+
+hackathons:
+  enable: false
+  item:
+    - title: Hack Cambridge 2019
+      description: Climate change simulator
+      image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793405/stickers/Hack_Cambridge_101_ozoq5d.png
+      url: none
+
+certifications:
+  enable: false
+  item:
+    - title: Microsoft Azure Fundamentals
+      image: https://res.cloudinary.com/samrobbins/image/upload/v1592501459/microsoft-certified-fundamentals-badge_cpcgyn.svg
+      url: https://www.youracclaim.com/badges/b4cf7a86-eb83-478e-bfd0-9f427c3474a0/public_url
+
+awards:
+  enable: false
+  item:
+    - title: Phase 1 Winner
+      event: GNOME Community Engagement Challenge
+      image: https://res.cloudinary.com/samrobbins/image/upload/v1595701167/CEChallenge-P1Winner2_iyjvyu.png
+
+education:
+  enable: true
+  item:
+    - title: AS Computer Science
+      year: 2019 - 2021
+      academy: Northern Virginia Community College
+      image: https://brand.nvcc.edu/wp-content/uploads/2020/01/Nighthawk-Bird-Head.jpg
+    - title: BS Computer Science
+      year: 2021 - 2024
+      academy: George Mason University
+      image: https://gstf.gmu.edu/wp-content/uploads/2021/07/cropped-icon-MasonM-512x512-1.png
+
+publications:
+  enable: false
+  item:
+    - image: /path/to/img
+      title: Title of the publication
+      description: details about the publication
+      code_link: link/to/the/repository
+      pdf_link: link/to/the/pdf
+
