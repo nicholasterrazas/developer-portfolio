@@ -41,7 +41,7 @@ author = "Nicholas Terrazas"
 
 
   [params.contact]
-  formAction = "https://formspree.io/<Insert code>" # Add your formspree URL here to get emails
+  formAction = "https://formspree.io/f/xkndrzla" # Add your formspree URL here to get emails
 
   # This contains the contact information for the footer
   [params.footer]
