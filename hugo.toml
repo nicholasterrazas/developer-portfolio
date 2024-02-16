@@ -47,4 +47,4 @@ author = "Nicholas Terrazas"
   [params.footer]
   email = "nicholasterrazas01@gmail.com"
   address = "Gainesville, VA"
-  googlemaps = "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwbHYJaUqfEgRK0Ui9dVGimc&key=AIzaSyAE_4rVAKux_DSPcb_OdSRDaovtPOSk_3U"
+  googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d99510.04702751996!2d-77.70176545213877!3d38.79376406589191!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b666229f11b9d9%3A0x4c416d4b32ca2c57!2sGainesville%2C%20VA!5e0!3m2!1sen!2sus!4v1708053165699!5m2!1sen!2sus"
