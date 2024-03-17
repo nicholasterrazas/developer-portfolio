@@ -16,7 +16,7 @@ social:
 
 about:
   enable: true
-  content: 4th Year Computer Science Student at GMU
+  content: Senior Computer Science Student at GMU
   button:
     btnText: Find out more
     URL: "/about"

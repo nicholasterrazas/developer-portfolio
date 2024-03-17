@@ -36,7 +36,7 @@ theme="hugo-developer-portfolio"
 [params]
 home = "Home" # What you want the homepage to show up as in the menu bar
 # Meta data
-description = "The website of Nicholas Terrazas, 4th Year Computer Science Student at George Mason University"
+description = "The website of Nicholas Terrazas, Senior Computer Science Student at George Mason University"
 author = "Nicholas Terrazas"
 
 
